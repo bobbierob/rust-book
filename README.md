@@ -4,3 +4,5 @@
 08/10/2022: https://doc.rust-lang.org/book/ch03-05-control-flow.html
 
 08/11/2022: https://doc.rust-lang.org/book/ch05-00-structs.html
+
+08/12/2022: https://doc.rust-lang.org/book/ch05-03-method-syntax.html
