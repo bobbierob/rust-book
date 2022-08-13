@@ -13,7 +13,7 @@ impl Rectangle {
         Self {
             width: size,
             height: size
-        }
+        }  // Returns instance of self with width=height=size
     }
 }
 
