@@ -10,3 +10,5 @@
 08/13/2022: https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html
 
 08/18/2022: https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html
+
+08/19/2022: https://doc.rust-lang.org/book/ch08-03-hash-maps.html
